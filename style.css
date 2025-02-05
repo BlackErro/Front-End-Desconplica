@@ -33,28 +33,6 @@ h2{
     font-weight: 600;
 }
 
-nav, li, a{
-   padding: 10px;
-   color: white;
-   text-decoration: none;
-}
-
-nav, li{
-    float: right;
-
-}
-
-nav, ul{
-    float: inherit;
-    list-style: none;
-}
-nav{
-    font-size: 12px;
-    letter-spacing: 4px;
-    height: 43px;
-    background-color: rgb(213, 96, 7);
-    padding-right: 40px;
-}
 
 table{
     width: 100%;
@@ -80,13 +58,4 @@ caption {
 table, thead, th{
     background-color: #f4511e;
     color: white;
-}
-
-#pacotes .figuras, figure{
-    display:inline-block;
-
-}
-
-#pacotes .figuras, #pacotes .video {
-    text-align: center;
 }
