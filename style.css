@@ -1,20 +1,9 @@
-body{
-    font-weight: 400;
-    font-family: Loto, Helvetica, sans-serif;
-    font-size: 15px;
-    line-height: 2.2em;
-    color:#818181;
-    margin: 0;
-}
 
-
-header{
+header {
     background-color: #f4511e;
-    color: aliceblue;
+    
 }
-
-
-section, footer{
+section{
     margin: 40px;
 }
 
@@ -33,7 +22,6 @@ h2{
     font-weight: 600;
 }
 
-
 table{
     width: 100%;
 
@@ -51,9 +39,6 @@ table, tr:nth-child(odd){
     background-color: #f2eded;
 }
 
-caption {
-    color: #818181;
-}
 
 table, thead, th{
     background-color: #f4511e;
